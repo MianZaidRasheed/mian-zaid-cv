@@ -1,0 +1,93 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="utf-8" /> 
+     <meta name="viewport" content="width=device-width,initial-scale=1" /> 
+     <title>Mian Zaid Rasheed — CV</title>
+</head>
+       <body style="font-family: Arial, Helvetica, sans-serif; line-height:1.4; margin:20px;">
+  <header>
+    <h1>
+ style="margin-bottom:0;">Mian Zaid Rasheed
+   </h1>
+       <p>
+style="margin-top:4px;">
+<strong>Aspiring Cybersecurity Analyst</strong>
+      </p>
+          <p> 
+              style="margin-top:6px;"> 
+              Email: <a href="mail.zaid@gmial.com"></a> 
+              | Phone: +92-300-0000000 |      
+              Location: Peshawar, Pakistan    
+                                           </p>
+
+     <hr> 
+          </header> 
+                    <section> 
+   <h2>
+        Profile
+     </h2>  
+      <p>   
+         cyber expert
+      </p>  
+
+    <h2>
+        Key Skills 
+    </h2> 
+   <ul>
+      <li>
+          OSINT & automation: n8n, Sherlock, Sublist3r
+                                                     </li>
+          <li>
+               Web basics: HTML5, forms, tables
+                                                 </li> 
+            <li> 
+                  Scripting & tools: Python basics, command-line tools
+                                                                       </li>
+                 <li>
+                     Security fundamentals: Vulnerability assessment, basic pentesting concepts
+</li> 
+          </ul> 
+             <h3>Languages</h3>  
+            <ul> 
+                <li>English — Professional</li>     
+            <li>
+               Urdu / Pashto — Native</li>   
+  </ul>   
+
+   <h2>
+        Education</h2> 
+   <article>   
+           <h3>
+                Bachelor of Information Technology (ongoing)</h3>      
+           < p>       
+                University xyz — Expected Graduation: 2026</p>    
+             <p>
+               Relevant coursework: Computer Networks, Database Systems, Web Development</p> 
+     </article>  
+</section>  <section>  
+                    <h2>  
+                        Projects</h2>    
+                 <article>    
+                         <h3>
+                            AI-powered OSINT Automation (Final Year Project)</h3>    
+  <p>     
+      Built workflows using n8n to orchestrate tools like Sherlock and Sublist3r. Collected and summarized findings        using GPT-based summaries. Focus on automating subdomain discovery and report generation.      </p>   
+   </article>    <article> 
+         <h3>
+                  Static Web Design Exercises</h3> 
+
+     <p>
+             Implemented HTML examples (headings, tables, forms, lists) as part of DBMS lab assignments to strengthen        front-end fundamentals.      </p>  
+
+  </article>  
+</section>  <section>    <h2>
+
+Experience</h2>  
+
+  <p>
+           No formal work experience yet — active in lab projects and self-study in cybersecurity.</p> 
+
+              </section>  
+<footer>    <hr>    <p style="font-size:0.9em;">Last updated: September 2025 • This CV is created using HTML5 only.</p>  </footer></body></html>
+
